@@ -901,3 +901,22 @@ num,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acou
 47,0D75ciM842cdUMKSMfAR9y,Baila Conmigo (with Rauw Alejandro),Selena Gomez,"['Selena Gomez', 'Rauw Alejandro']",0.824,0.545,5,-7.127,1,0.0221,0.00375,0.097,0.683,149.912,186088,4,77
 48,5Kskr9LcNYa0tpt5f0ZEJx,Calling My Phone,Lil Tjay,"['Lil Tjay', '6LACK']",0.907,0.393,4,-7.636,0,0.451,1.35e-06,0.135,0.202,104.949,205458,4,86
 49,3aQem4jVGdhtg116TmJnHz,What’s Next,Drake,['Drake'],0.781,0.594,0,-6.959,0,0.0136,0.0,0.162,0.0628,129.895,178154,4,89
+0,61u5uSTeVRurydvbWdfqDc,In My Bones (feat. Kimbra & Tank and The Bangas),Jacob Collier,"['Jacob Collier', 'Kimbra', 'Tank and The Bangas']",0.901,0.83,1,-6.255,0,0.172,3.69e-06,0.266,0.684,129.051,249290,4,33
+1,51ChrwmUPDJvedPQnIU8Ls,Dive,Ed Sheeran,['Ed Sheeran'],0.761,0.386,4,-6.158,1,0.355,0.0,0.0953,0.526,134.943,238440,3,76
+2,68j5DYmCikBzcp60Sv6xWO,All I Need (with Mahalia & Ty Dolla $ign),Jacob Collier,"['Jacob Collier', 'Mahalia', 'Ty Dolla $ign']",0.485,0.492,5,-6.462,0,0.425,0.0,0.105,0.876,78.001,243787,4,55
+3,0Y8kxAuBh8Oc8n6cyDTQ8Q,Light As Anything,Cory Wong,"['Cory Wong', 'Robbie Wulfsohn']",0.76,0.631,9,-5.661,1,0.0658,0.000281,0.0819,0.644,93.992,291133,4,50
+4,1SHA4IJyiyNobDOrQzFFXy,Animal Spirits,Vulfpeck,['Vulfpeck'],0.751,0.713,1,-7.333,1,0.156,9.59e-05,0.0508,0.906,100.856,190802,4,58
+5,3ZiuxcBeRanTjfHzVBuuQe,Would You Be So Kind,dodie,['dodie'],0.662,0.616,4,-9.621,1,0.156,0.000222,0.126,0.614,160.071,180952,4,65
+6,1DrlLvlYd1FIjNavRm6NdX,Back Pocket,Vulfpeck,['Vulfpeck'],0.839,0.585,2,-7.738,1,0.478,0.00281,0.0435,0.89,89.821,181260,4,64
+7,4EcYqXGZ1MOl7gBLcRO9Ya,still feel.,half•alive,['half•alive'],0.779,0.525,10,-5.756,0,0.148,0.0,0.0675,0.698,120.018,247438,4,53
+8,7MGNHuYwmm9UjQgdVciO1v,Feel (feat. Lianne La Havas),Jacob Collier,"['Jacob Collier', 'Lianne La Havas']",0.611,0.134,11,-13.96,1,0.836,0.0184,0.081,0.136,115.909,390560,3,52
+9,74IgSPXYXx7v95NpCzGgsW,Share Your Address,Ben Platt,['Ben Platt'],0.582,0.829,11,-5.054,1,0.209,0.0,0.0828,0.714,127.937,182467,4,59
+10,2RJfK2pOvGpnxC255YOy5k,Rose-Colored Boy,Paramore,['Paramore'],0.768,0.826,5,-4.904,1,0.00199,0.000374,0.031,0.926,114.997,212853,4,64
+11,1Bw45KRmdKpX2pkIADDP0B,Walcott,Vampire Weekend,['Vampire Weekend'],0.482,0.559,5,-5.454,1,0.541,0.00273,0.223,0.597,80.777,221600,4,0
+12,1yjY7rpaAQvKwpdUliHx0d,Still into You,Paramore,['Paramore'],0.602,0.923,5,-3.763,1,0.0098,0.0,0.0561,0.765,136.01,216013,4,83
+13,7l0Lr7Tl4Gt8hQj4v3rwtf,I'm Not A Vampire,Falling In Reverse,['Falling In Reverse'],0.235,0.965,2,-2.882,0,0.00887,0.0,0.0448,0.322,185.278,231840,4,70
+14,4rMgW2G2lQxVvGdgwajnfy,Run Away With Me,Adam Neely,"['Adam Neely', 'Kate Steinberg']",0.245,0.674,1,-8.361,1,0.0136,1.35e-05,0.0991,0.302,90.014,287881,3,35
+15,3lPr8ghNDBLc2uZovNyLs9,Supermassive Black Hole,Muse,['Muse'],0.668,0.921,7,-3.727,1,0.0492,0.00517,0.0877,0.782,120.0,212440,4,79
+16,4dwrL3Z5U2RZ6MZiKE2PgL,Superstition,Stevie Wonder,['Stevie Wonder'],0.648,0.751,8,-8.582,1,0.0182,0.000401,0.0418,0.863,100.437,244827,4,0
+17,1RMJOxR6GRPsBHL8qeC2ux,Best Part (feat. H.E.R.),Daniel Caesar,"['Daniel Caesar', 'H.E.R.']",0.524,0.364,7,-10.209,1,0.808,0.0,0.1,0.436,75.24,209831,4,79
+18,2Z8WuEywRWYTKe1NybPQEW,Ride,Twenty One Pilots,['Twenty One Pilots'],0.645,0.713,6,-5.355,1,0.00835,0.0,0.113,0.566,74.989,214507,4,83

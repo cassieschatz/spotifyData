@@ -11,22 +11,12 @@ import numpy as np
 import pandas as pd
 
 #Initial access:
-'''
-credentials = json.load(open('authorization.json'))
-client_id = credentials['client_id']
-client_secret = credentials['client_secret']
-
-playlist_index = 0
-
-playlists = json.load(open('playlists.json'))
-playlist_uri = playlists[playlist_index]['uri']
-'''
-
 client_id = 'f74562884bc54662b03146c144c5c411'
 client_secret = '9119de29553e47cdaeae7427379c0ec7'
 
-#https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M?si=52327ab78f564998
-playlist_uri = 'spotify:user:littlemisshoran:playlist:37i9dQZF1DXcBWIGoYBM5M'
+#https://open.spotify.com/playlist/4c6EhDyDm3iyB3Jrqlqs3Q?si=bce9afe40db64263
+playlist_uri = 'spotify:user:popcorndem11:playlist:4c6EhDyDm3iyB3Jrqlqs3Q'
+                                                   
 
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id,client_secret=client_secret)
 
